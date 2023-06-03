@@ -18,7 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mariel-urbano-586052180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariel-urbano-586052180" height="30" width="40" /></a>
-<a href="https://www.instagram.com/marat_atk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marat_atk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marill_mare_mariel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marill_mare_mariel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marat_atk/" target="blank"><img align="center" src="Media/iono-pfp.jpg" alt="marat_atk" height="30" width="40" /></a>
 </p>
 
 <!-- Ordered left to right most comfortable -->
