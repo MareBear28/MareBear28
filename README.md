@@ -2,9 +2,9 @@
 <!-- Banner generated on https://tcm.pokecharms.com/ -->
 
 
-<h3 align="center">🎓I am a California State University Long Beach Computer Science graduate🎓</h3>
+<h3 align="center">🎓CSULB Computer Science graduate🎓</h3>
 
-- 🔭 I’m currently working on my Personal site and [LunarisBot](https://github.com/Crisu07/LunarisBot)
+- 🔭 I’m currently working on my [Personal site] and [LunarisBot](https://github.com/Crisu07/LunarisBot)
 
 - 🌱 I’m currently learning [Bootstrap](https://getbootstrap.com) and more about [React](https://reactjs.org/)
 
@@ -20,6 +20,7 @@
 <a href="https://www.linkedin.com/in/mariel-urbano-586052180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariel-urbano-586052180" height="30" width="40" /></a>
 <a href="https://www.instagram.com/marill_mare_mariel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marill_mare_mariel" height="30" width="40" /></a>
 <!--- Iono icon by mirai_(sugar) on Danbooru) -->
+<!-- This icon is for my Pokemon instagram account -->
 <a href="https://www.instagram.com/marat_atk/" target="blank"><img align="center" src="Media/iono-pfp.jpg" alt="marat_atk" height="40" /></a>
 
 </p>
