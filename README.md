@@ -13,7 +13,7 @@
 - 📫 How to reach me: **marielurbano28@gmail.com**
 
 - ⚡ Fun fact 
-    - **I enjoy playing games and drawing anime characters✏️ **
+    - **I enjoy playing games and drawing anime characters✏️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
