@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my [Personal site](https://github.com/MareBear28/Personal-Website) and [LunarisBot](https://github.com/Crisu07/LunarisBot)
 
-- 🌱 I’m currently learning [React](https://reactjs.org/) and more about [Bootstrap](https://getbootstrap.com)
+- 🌱 I’m currently learning [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com)
 
 - 📫 How to reach me: **marielurbano28@gmail.com**
 
