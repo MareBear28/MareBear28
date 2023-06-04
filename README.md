@@ -2,7 +2,7 @@
 <!-- Banner generated on https://tcm.pokecharms.com/ -->
 
 
-<h3 align="center">🎓CSULB Computer Science graduate🎓</h3>
+<h3 align="center">🎓Just a CSULB Computer Science graduate🎓</h3>
 
 - 🔭 I’m currently working on my [Personal site](https://github.com/MareBear28/Personal-Website) and [LunarisBot](https://github.com/Crisu07/LunarisBot)
 
@@ -13,7 +13,7 @@
 - 📫 How to reach me: **marielurbano28@gmail.com**
 
 - ⚡ Fun fact 
-    - **I enjoy collecting Pokemon cards, drawing anime characters, and building keyboards ⌨️**
+    - **I enjoy playing games and drawing anime characters✏️ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
